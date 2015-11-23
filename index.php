@@ -1,5 +1,5 @@
-#!/bin/php
 <?php
+#!/bin/php
 
 $a = $argv;
 
